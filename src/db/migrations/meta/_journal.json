@@ -8,6 +8,13 @@
       "when": 1776770920056,
       "tag": "0000_abnormal_doctor_doom",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1776823702671,
+      "tag": "0001_aromatic_beyonder",
+      "breakpoints": true
     }
   ]
 }
